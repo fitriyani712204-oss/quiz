@@ -17,9 +17,10 @@ A simple **Login UI project** with custom colors, fonts, and theme.
 3. If login is successful, you’ll be redirected to `home.html`.
 
 ## 📸 Screenshot
-![Login UI](./Screenshot%20(21).png)
-![Login Sukses](./Screenshot%20(22).png)
-![Logout](./Screenshot%20(18).png)
+![Login UI](./Screenshot%20(50).png)
+![Login UI](./Screenshot%20(51).png)
+![Login Sukses](./Screenshot%20(52).png)
+![Logout](./Screenshot%20(53).png)
 
 
 
