@@ -1,29 +1,12 @@
 # quiz
 
-A simple **Login UI project** with custom colors, fonts, and theme.
-
-## 🎨 Features
-- Custom gradient background
-- Modern font and button style
-- Simple login validation with JavaScript
-- Redirect to Home Page after successful login
-- Logout feature
-
-## 🧠 How to Use
-1. Open `index.html` in browser.
-2. Use this login data:
-   - Username: **admin**
-   - Password: **12345**
-3. If login is successful, you’ll be redirected to `home.html`.
+A simple **quiz project** with custom colors, fonts, and theme.
 
 ## 📸 Screenshot
 ![Login UI](./Screenshot%20(50).png)
 ![Login UI](./Screenshot%20(51).png)
 ![Login Sukses](./Screenshot%20(52).png)
 ![Logout](./Screenshot%20(53).png)
-
-
-
 
 ---
 
